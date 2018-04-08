@@ -9,6 +9,5 @@ int main() {
     } else {
         printf("flag is {You_understand_how_to_use_strings_command}");
     }
-
     return 0;
 }
